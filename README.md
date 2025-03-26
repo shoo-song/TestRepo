@@ -1,2 +1,2 @@
 # TestRepo
-Team A Test Repo.
+TEST 입니다
